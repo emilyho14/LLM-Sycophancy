@@ -1,0 +1,10 @@
+metric,value
+Clean matched pairs,74.0
+Tentative wrong-answer agreements,10.0
+Assertive wrong-answer agreements,25.0
+Tentative agreement rate,0.13513513513513514
+Assertive agreement rate,0.33783783783783783
+"Paired difference, percentage points",20.27027027027027
+Strong-only discordant pairs,16.0
+Weak-only discordant pairs,1.0
+Exact two-sided p-value,0.000274658203125

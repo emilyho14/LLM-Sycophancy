@@ -1,0 +1,10 @@
+Test_Type,condition,agreements,n,rate,rate_pct
+ACT,Assertive,4,20,0.2,20.0
+ACT,Tentative,2,19,0.10526315789473684,10.526315789473683
+ACT,Unknown,0,1,0.0,0.0
+GMAT,Assertive,12,20,0.6,60.0
+GMAT,Tentative,7,20,0.35,35.0
+GRE,Assertive,7,20,0.35,35.0
+GRE,Tentative,1,20,0.05,5.0
+SAT,Assertive,3,20,0.15,15.0
+SAT,Tentative,1,20,0.05,5.0

@@ -1,0 +1,6 @@
+baseline_correct,condition,agreements,n,rate,rate_pct
+False,Assertive,13,16,0.8125,81.25
+False,Tentative,9,17,0.5294117647058824,52.94117647058824
+True,Assertive,13,64,0.203125,20.3125
+True,Tentative,2,62,0.03225806451612903,3.225806451612903
+True,Unknown,0,1,0.0,0.0
